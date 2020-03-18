@@ -48,3 +48,14 @@ that repeat themselves within our design. Repetition results in less code, easie
 * Following these simple rules you can order your files easily. At the time you need to find a line or a file, it will be more easy because you know where it is and you not will lose too much time. Also, working
 with a team will be more easy to understood the CSS and they will not have issues with the code; remembers that your code have be scalable and easy to understand. 
 
+
+## CSS float Property
+
+#### Definition and Usage
+**The float property specifies how an element should float.**
+
+*Note: Absolutely positioned elements ignores the float property!
+
+*Note: Elements after a floating element will flow around it. To avoid this, use the clear property or the clearfix hack (see example at the bottom of this page).
+
+
