@@ -54,8 +54,8 @@ with a team will be more easy to understood the CSS and they will not have issue
 #### Definition and Usage
 **The float property specifies how an element should float.**
 
-*Note: Absolutely positioned elements ignores the float property!
+*Note: Absolutely positioned elements ignores the float property!*
 
-*Note: Elements after a floating element will flow around it. To avoid this, use the clear property or the clearfix hack (see example at the bottom of this page).
+*Note: Elements after a floating element will flow around it. To avoid this, use the clear property or the clearfix hack (see example at the bottom of this page).*
 
 
