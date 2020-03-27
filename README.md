@@ -6,7 +6,7 @@
 
 | Reading Class                                                                     | Title                            |
 | --------------------------------------------------------------------------------- | -------------------------------- |
-| [Class-01]                                                                        | SMACSS and Responsive Web Design |
+| [Class-01](https://hammadsoloman.github.io/ReadingNotes301/Read01)                | SMACSS and Responsive Web Design |
 | [Class-02]                                                                        | jQuery, Events, and The DOM      |
 | [Class-03]                                                                        | Flexbox and Templating           |
 | [Class-04]                                                                        | Responsive Web Design            |
